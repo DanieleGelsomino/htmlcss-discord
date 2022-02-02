@@ -205,3 +205,39 @@ header {
     padding-bottom: 50px;
     margin-left: 100px;
 }
+
+.bg-beige {
+    background-color: rgb(246, 246, 246);
+}
+
+
+.fourth-banner {
+    text-align: center;
+    margin-top: 100px;
+    padding-top: 2px;
+}
+
+
+.img-star {
+    line-height: 50px;
+    height: 50px;
+}
+
+
+.title-stars {
+    font-size: 28px;
+    color: rgb(35, 39, 42);
+
+}  
+
+
+.blue-btn {
+    background-color: rgb(87, 101, 242);
+    color: white;
+}
+
+.blue-btn:hover {
+    text-decoration: none;
+    color: white;
+    background-color: rgb(121, 131, 245);
+}
