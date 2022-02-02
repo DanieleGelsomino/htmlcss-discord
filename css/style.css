@@ -55,6 +55,12 @@ body {
     width: 10%;
 }
 
+
+.float-right {
+    float: right;
+}
+
+
 /* content */
 
 
@@ -176,9 +182,6 @@ header {
     margin-top: 100px;
 }
 
-.float-right {
-    float: right;
-}
 
 
 .description {
