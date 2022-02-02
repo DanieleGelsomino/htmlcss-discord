@@ -180,9 +180,6 @@ header {
     float: right;
 }
 
-.content {
-    position: relative;
-}
 
 .description {
     margin-top: 130px;
@@ -199,4 +196,9 @@ header {
 .description p {
     line-height: 25px;
     font-size: 18px;
+}
+
+.second-banner {
+    padding-bottom: 50px;
+    margin-left: 100px;
 }
