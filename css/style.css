@@ -54,7 +54,7 @@ body {
 /* content */
 
 header {
-    background-color: rgb(64, 78, 237);
+    background-color: #255EE8;
 }
  
 
@@ -103,6 +103,15 @@ header {
 .btn:hover {
     color: rgb(64, 78, 237);
     text-decoration: underline;
+}
+
+
+
+.bottom-header {
+    background-image: url(../img/jumbo.png);
+    background-size: cover;
+    height: 500px;
+
 }
 
 /* 
