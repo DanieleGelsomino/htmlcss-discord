@@ -244,3 +244,69 @@ header {
     color: white;
     background-color: rgb(121, 131, 245);
 }
+
+
+footer {
+    background-color: rgb(35, 39, 42);
+    height: 500px;
+}
+
+.utility {
+    text-align: center;
+}
+
+nav li {
+    vertical-align: middle;
+    display: inline-block;
+    color: white;
+    padding: 0 10px;
+}
+
+.title-foot {
+    font-size: 22px;
+    text-align: left;
+    font-weight: 700;
+    line-height: 30px;
+    height: 30px;
+    padding-top: 50px;
+    color: rgb(87, 101, 242);
+}
+
+.flag {
+height: 12px;
+float: left;
+margin-top: 20px;
+margin-right: 5px;
+}
+
+.lang {
+    font-size: 10px;
+    color: white;
+    margin-top: 20px;
+    line-height: 12px;
+    height: 12px;
+}
+
+.arrow {
+  vertical-align:top;
+  margin-left: 2px;
+}
+
+
+
+.icon-social i {
+    color: white;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-right: 15px;
+
+
+}
+
+
+.list-title {
+    color: rgb(87, 101, 242);
+}
+
+
+
