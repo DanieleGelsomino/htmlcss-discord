@@ -346,3 +346,18 @@ margin-right: 5px;
     border-bottom: 1px solid rgb(87, 101, 242);
     padding-bottom: 100px;
 }
+
+
+/* sezione wave */
+
+
+.wave svg {
+    color:rgb(246, 246, 246) ;
+    display: block;
+}
+
+.wave-reverse svg {
+    background-color:rgb(246, 246, 246);
+    color: white;
+    display: block;
+}
