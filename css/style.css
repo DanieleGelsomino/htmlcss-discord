@@ -221,11 +221,15 @@ section {
     background-color: rgb(246, 246, 246);
 }
 
+.third-section {
+    padding-bottom: 50px;
+}
+
+
 
 .fourth-banner {
     text-align: center;
-    margin-top: 100px;
-    padding-top: 2px;
+    padding-top: 10px;
 }
 
 
@@ -278,7 +282,7 @@ nav li {
     line-height: 30px;
     height: 30px;
     padding-top: 50px;
-    color: rgb(87, 101, 242);
+    color: rgb(114, 136, 218);
 }
 
 .flag {
@@ -314,7 +318,7 @@ margin-right: 5px;
 
 
 .list-title {
-    color: rgb(87, 101, 242);
+    color: rgb(114, 136, 218);
     text-align: left;
 }
 
@@ -343,11 +347,25 @@ margin-right: 5px;
 }
 
 .border {
-    border-bottom: 1px solid rgb(87, 101, 242);
+    border-bottom: 1px solid rgba(114, 136, 218,0.5);
     padding-bottom: 100px;
 }
 
+.bottom-footer {
+    margin-top: 30px;
+    margin-left: 120px;
+}
 
+.btn-submit {
+    padding: 10px 15px;
+    border-radius: 50px;
+    font-size: 14px;
+    text-decoration: none;
+    font-weight: 500;
+    float: right;
+    margin-right: 120px;
+
+}
 /* sezione wave */
 
 
